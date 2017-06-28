@@ -1,2 +1,6 @@
-# auto_turtlebot3_burger
-Auto(Autonomous Driving Program) in TurtleBot3 Burger
+# AUTO::TurtleBot3 Burger
+AUTO(AUTOnomous Driving Program) ver. TurtleBot3 Burger
+
+
+
+Developed by OROCA AuTURBO (Dohyun Kim, Dongun Cho, Hyunok Lee, Jaeho Yang, Jincheol Baek, Jongho Choi, Jun Heo, Kihoon Kim, Leon Ryuwoon Jung, Myungjun Ko, Wonchol Kim)
