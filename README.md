@@ -3,4 +3,4 @@ AUTO(AUTOnomous Driving Program) ver. TurtleBot3 Burger
 
 
 
-Developed by OROCA AuTURBO (Dohyun Kim, Dongun Cho, Hyunok Lee, Jaeho Yang, Jincheol Baek, Jongho Choi, Jun Heo, Kihoon Kim, Leon Ryuwoon Jung, Myungjun Ko, Wonchol Kim)
+Developed by OROCA AuTURBO (Dohyun Kim, Dongwoon Jo, Hyunok Lee, Jaeho Yang, Jincheol Baek, Jongho Choi, Jun Heo, Kihoon Kim, Leon Ryuwoon Jung, Myeongjun Ko, Wonchol Kim)
